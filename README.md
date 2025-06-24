@@ -6,7 +6,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📌 Overview
-A full-featured delivery management system developed for FlashExpress company during my immersion internship (Aug-Sep 2024). This web application digitizes package tracking processes with dual interfaces for administrators and clients.
+A full-featured delivery management system developed for FlashExpress company during my immersion internship . This web application digitizes package tracking processes with dual interfaces for administrators and clients.
 
 ## ✨ Key Features
 - **User Roles**:
